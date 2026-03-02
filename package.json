@@ -1,6 +1,6 @@
 {
   "name": "@4wangyu/show",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "English dictionary in the shell.",
   "main": "bin/show",
   "bin": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/4wangyu/show.git"
+    "url": "git+https://github.com/0x3175/show.git"
   },
   "keywords": [
     "english",
@@ -24,14 +24,15 @@
   "author": "Wang Yu <4wangyu@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/4wangyu/show/issues"
+    "url": "https://github.com/0x3175/show/issues"
   },
-  "homepage": "https://github.com/4wangyu/show#readme",
+  "homepage": "https://github.com/0x3175/show#readme",
+  "type": "module",
   "dependencies": {
-    "axios": "^0.21.1",
-    "chalk": "^4.0.0",
-    "commander": "^5.1.0",
-    "ora": "^4.0.4",
-    "update-notifier": "^4.1.0"
+    "axios": "^1.13.6",
+    "chalk": "^5.6.2",
+    "commander": "^14.0.3",
+    "ora": "^9.3.0",
+    "update-notifier": "^7.3.1"
   }
 }
