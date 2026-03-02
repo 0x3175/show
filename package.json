@@ -1,6 +1,6 @@
 {
   "name": "@0x3175/show",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "description": "English dictionary in the shell.",
   "main": "bin/show",
   "bin": {
