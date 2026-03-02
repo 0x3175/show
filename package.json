@@ -1,5 +1,5 @@
 {
-  "name": "@4wangyu/show",
+  "name": "@0x3175/show",
   "version": "0.0.4",
   "description": "English dictionary in the shell.",
   "main": "bin/show",
@@ -21,7 +21,6 @@
     "command line",
     "cli"
   ],
-  "author": "Wang Yu <4wangyu@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/0x3175/show/issues"

@@ -1,28 +1,26 @@
-# [show](https://www.npmjs.com/package/@4wangyu/show)
+# [show](https://www.npmjs.com/package/@0x3175/show)
 
-An English dictionary
+English dictionary in the shell.
 
 ## Installation
 
-Use the package manager [npm](https://www.npmjs.com/get-npm) to install **show**.
-
 ```bash
-npm i -g @4wangyu/show
+npm i -g @0x3175/show
 ```
 
 ## Usage
 
 ```bash
-$ show word
+$ show hello
 
-⠸ word  [ /wərd/ ]
+hello  [ /həˈləʊ/ ]
 
-- [noun] A single distinct meaningful element of speech or writing, used with others (or sometimes alone) to form a sentence and typically shown with a space on either side when written or printed.
+- [noun] "Hello!" or an equivalent greeting.
 
-- [transitive verb] Choose and use particular words in order to say or write (something)
-  he words his request in a particularly ironic way
+- [verb] To greet with "hello".
 
-- [exclamation] Used to express agreement.
+- [interjection] A greeting (salutation) said when meeting someone or acknowledging someone’s arrival or presence.
+  Hello, everyone.
 
 ```
 
